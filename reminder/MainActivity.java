@@ -1,4 +1,4 @@
-package com.example.ashir.reminder;
+package com.example.sony.reminder;
 
 import android.app.AlarmManager;
 import android.app.Notification;
