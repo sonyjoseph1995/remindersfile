@@ -1,4 +1,4 @@
-package com.example.ashir.reminder;
+package com.example.sony.reminder;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
